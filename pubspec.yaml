@@ -43,6 +43,10 @@ dependencies:
   google_mlkit_face_detection: ^0.10.1
   image: ^4.1.7
   tflite_flutter: ^0.10.4
+  detect_fake_location: ^1.0.1
+  google_maps_flutter: ^2.6.1
+  location: ^6.0.1
+  permission_handler: ^11.3.1
 
 
   # The following adds the Cupertino Icons font to your application.
